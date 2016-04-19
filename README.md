@@ -7,5 +7,7 @@
 
 #how tor run.
 1. Create a file called data.py in the root directory. 
-2. The file should have the pase to your .json file you downloaded from google
+2. The file should have the pase to your .json file you downloaded from google<br>
+<code>
     google_location_data = "<filepath>"
+</code>
