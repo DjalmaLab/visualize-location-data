@@ -1,2 +1,2 @@
 Installation
-sudo pip install pandas
+sudo pip install pmatplotlib

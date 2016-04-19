@@ -4,3 +4,8 @@ class LocationObj(object):
         self.lat = lat
         self.lon = lon
         self.altitude = altitude
+
+    def getLat(self):
+        return self.lat
+    def getLon(self):
+        return self.lon
