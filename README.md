@@ -11,3 +11,4 @@
 <code>
     google_location_data = "<filepath>"
 </code>
+3. Run python visualize.py
